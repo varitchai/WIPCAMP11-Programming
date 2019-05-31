@@ -14,19 +14,16 @@ public class _0_Scanner {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        
-        System.out.print("Enter x : ");
+        int MOM;
+        int DAD;
+        System.out.println("MOM : ");
 
-        int x = sc.nextInt();
+         MOM = sc.nextInt();
         
-        System.out.print("Enter y : ");
+        System.out.println("DAD : ");
 
-        int y = sc.nextInt();
+          DAD = sc.nextInt();
         
-        System.out.println("X : " + x);
-        System.out.println("Y : " + y);
-        
-        System.out.println("X+Y : " + (x+y));
-        
+       System.out.println("MOM + DAD : " + (MOM + DAD));
     }
 }
