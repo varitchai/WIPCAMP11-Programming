@@ -1,5 +1,3 @@
 WIPCAMP #11 
-สวัสดีครับ
-ผมคนไทยครับ
-ฮั่นแน่
-ผมมีพี่ชิ่อ ประx
+Ohayo Gosaiimas
+combamgva
